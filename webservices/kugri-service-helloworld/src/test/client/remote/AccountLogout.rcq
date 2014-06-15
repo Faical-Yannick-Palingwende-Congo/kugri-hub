@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rest-client version="3.2.1"><request><http-version>1.1</http-version><http-follow-redirects/><URL>http://www.kugri.com/kugri-service-helloworld/account/logout</URL><method>POST</method><body><string content-type="application/json" charset="UTF-8">{
+ "stamp":"30420142024",
+ "payload":"6baf9f64380d91e4947f368afd508ff18b48656be827c347cc84e081a1739b07"
+}</string></body></request></rest-client>
